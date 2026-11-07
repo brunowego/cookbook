@@ -60,7 +60,7 @@ rbenv -h
 
 ```sh
 # Set project ruby version
-echo 'ruby-2.6.5' > ./.ruby-version
+echo '3.4.10' > ./.ruby-version
 ```
 
 ### Usage

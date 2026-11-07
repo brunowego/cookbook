@@ -12,6 +12,7 @@
 https://github.com/webadderallorg/Recordly
 https://screen.now/edit
 
+https://smoothrecorder.com/
 https://bluedothq.com
 https://jumpshare.com
 https://tella.tv

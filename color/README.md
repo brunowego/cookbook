@@ -42,7 +42,7 @@ https://tailwindshades.com/
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix)
 - [Chroma.js Color Palette Helper](http://vis4.net/palettes)
 - [ColorBox](http://colorbox.io)
-- [CopyPalette](https://copypalette.app) 🌟
+<!-- - [CopyPalette](https://copypalette.app) 🌟 -->
 - [Deep learning color generator](https://colors.eva.design)
 - [Hue The Color](https://eboye.github.io/huethecolor)
 - [Huey / Color Palette Generator](https://huey.design)
@@ -62,6 +62,8 @@ https://www.canva.com/colors/color-palette-generator/
 https://json-color-palette.netlify.app 🌟
 https://tailcolor.com
 https://uicolors.app 🌟
+https://www.tints.dev 🌟
+https://www.magicpattern.design/tools/tailwind-color-palette-generator 🌟
 -->
 
 ### Lighten & Darken

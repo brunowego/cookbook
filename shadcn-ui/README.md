@@ -45,7 +45,6 @@ https://bendigiorgio.github.io/kiso/?path=/docs/components-switch--docs
 
 Components
 
-https://www.fluidfunctionalism.com/
 https://bazza.dev/craft/2026/hit-area
 https://www.facehash.dev/
 https://lina.sameer.sh | Scroll Area

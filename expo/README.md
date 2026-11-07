@@ -55,7 +55,7 @@ https://github.com/eonova/expo-starter
 
 ```sh
 # Using NPM
-npm install expo-cli -g
+npm install expo-cli -g # The global expo-cli package has been deprecated. To use the local CLI instead (recommended in SDK 46 and higher), run: npx expo <command>
 ```
 
 ### Commands
@@ -69,35 +69,37 @@ npx expo -h
 
 ```sh
 #
-expo login
+npx expo login
 
 #
-expo whoami
+npx expo whoami
 
 #
-expo config
+npx expo config
 ```
 
 <!--
-#
-expo install --fix
+npx expo install expo-dev-client
 
 #
-expo start
-expo start --android
-expo start --ios
-expo start --web
+npx expo install --fix
 
 #
-expo run:ios
-expo run:android
+npx expo start
+npx expo start --android
+npx expo start --ios
+npx expo start --web
 
 #
-expo export
+npx expo run:ios
+npx expo run:android
 
 #
-expo install --check
+npx expo export
 
 #
-expo eject
+npx expo install --check
+
+#
+npx expo eject
 -->

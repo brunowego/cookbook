@@ -1,6 +1,8 @@
 # Eve
 
 <!--
+https://eve-mocks.vercel.app/
+
 https://github.com/ashikshafi08/rangent/tree/main/packages/eve-agent/evals
 
 https://github.com/daggerstuff/pixelated/tree/staging/agents

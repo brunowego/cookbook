@@ -1,10 +1,16 @@
 # Gource
 
+**Keywords:** Git Video, Development History
+
 ## Links
 
 - [Main Website](https://gource.io)
 
 ## CLI
+
+### Dependencies
+
+- [ffmpeg](/ffmpeg.md)
 
 ### Installation
 
@@ -35,8 +41,15 @@ gource \
   --auto-skip-seconds 1 \
   --file-idle-time 0 \
   --highlight-users \
+  --hide filenames \
+  --viewport 1920x1080 \
+  --output-framerate 30 \
+  --stop-at-end \
   -o - |
-    ffmpeg -y -r 30 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium -crf 23 -threads 2 ./gource-video.mp4
+  ffmpeg -y -r 30 -f image2pipe -vcodec ppm -i - \
+    -vcodec libx264 -preset medium -crf 23 \
+    -pix_fmt yuv420p -movflags +faststart \
+    ./gource-video.mp4
 ```
 
 ### Tips

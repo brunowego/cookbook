@@ -1,5 +1,7 @@
 # iOS Simulator
 
+**Keywords:** Device Hub
+
 ## Tools
 
 - [Create iOS Device](/apple/xcode/xcrun/simctl.md#create)

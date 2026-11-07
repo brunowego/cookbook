@@ -68,7 +68,12 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
     You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory.
 ```
 
+```log
+ERROR:  While executing gem ... (Gem::FilePermissionError)
+    You don't have write permissions for the /usr/local/bin directory.
+```
+
 ```sh
 # Homebrew
-sudo chown -R `whoami` /Library/Ruby/Gems
+sudo chown -R `whoami` /Library/Ruby/Gems /usr/local/bin
 ```

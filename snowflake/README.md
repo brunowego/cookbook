@@ -21,3 +21,10 @@ https://blog.localstack.cloud/2024-05-22-introducing-localstack-for-snowflake/
 ### Links
 
 - [SnowSQL](./snowsql.md)
+
+### Installation
+
+```sh
+# Using Homebrew
+brew install snowflake-cli
+```

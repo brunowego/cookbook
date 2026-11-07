@@ -28,3 +28,22 @@ https://github.com/crystaldba/postgres-mcp/issues/65
 -->
 
 TODO
+
+<!--
+{
+  "mcpServers": {
+    "postgres-dev": {
+      "command": "bunx",
+      "args": [
+        "envmcp@0.2.1",
+        "uvx",
+        "--with",
+        "mcp[cli]==1.29.0",
+        "postgres-mcp@0.3.0",
+        "--access-mode=unrestricted"
+      ]
+    }
+  }
+}
+
+-->

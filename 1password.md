@@ -44,9 +44,8 @@ Use cell phone instead.
 
 ### Installation
 
-#### Homebrew
-
 ```sh
+# Using Homebrew
 brew install --cask 1password-cli
 ```
 
@@ -60,7 +59,10 @@ op -h
 
 ```sh
 #
-op signin <example>
+op signin
+
+#
+op account list
 ```
 
 <!--

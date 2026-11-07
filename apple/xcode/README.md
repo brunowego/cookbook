@@ -42,6 +42,10 @@ sudo xcodebuild -runFirstLaunch
 
 #
 # sudo xcodebuild -license accept
+
+#
+xcodebuild -downloadPlatform iOS
+xcrun simctl list devices available
 ```
 
 ### Commands

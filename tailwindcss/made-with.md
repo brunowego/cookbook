@@ -22,6 +22,7 @@ https://demo-ecomus-global.myshopify.com
 
 Main Menu
 
+https://www.enobase.com/en
 https://deriv.com | https://github.com/binary-com/deriv-com
 https://li.fi
 https://coda.io
@@ -44,6 +45,7 @@ https://sharerelay.com
 
 Empty State / Placeholder
 
+https://near.com/crypto
 https://www.evaly.io/app
 https://app.formcarry.com
 https://dashboard.lusha.com/enrich/workflows/onboarding
@@ -62,6 +64,10 @@ https://tailwindui.com/components/application-ui/feedback/empty-states
 https://kopi.dev/tailwind/empty-state-components-collection-using-tailwind-ui
 https://razorui.com/libraries/blade-application-ui/empty-states
 
+Feedback
+
+https://openheard.com/
+
 Feedback Page
 
 https://app.intercom.com/ai_agent_email_feedback?app_id=110658&conversation_id=36000134165&quick_reply_part_id=21909881032&reply_option_uuid=9bebd4da-7220-480f-8905-38aa9b9f3fa2
@@ -77,6 +83,7 @@ https://threads-app-react.vercel.app
 Background Animation
 
 https://simplegoods.co (morph)
+https://unfocus.jonasleupe.com/
 
 Sheet
 
@@ -121,8 +128,49 @@ UI
 
 https://www.boardui.com/
 
+Icons
+
+https://iconmcp.com/?set=network
+https://nucleoapp.com/app/?library=isometric
+
+AI Components
+
+https://www.affectui.com/?v=2
+https://ui.overtrue.xyz/components/assistant-panel
+https://codedvisuals.com/
+https://hextaui.com/blocks/agent-todos
+https://www.aicss.dev
+https://www.rareui.com/components/gridreveal
+https://www.akoder.xyz/components/emoji-reactions
+
+UI Components
+
+https://scaena.darkroom.engineering/#units
+https://popmelt.com/
+https://polar.sh/field-guide?page=m-code
+https://www.designdecisions.dev/
+https://www.affectui.com/components/trace-waterfall
+https://devl.dev/
+https://paceui.com/
+https://www.great-ui.com/
+https://design.how/
+https://www.rareui.com/components/railtoc
+https://www.dqnamo.com/experiments/magnetic-drop-zone
+https://kobra.systems/components/magnetic-dropzone
+https://reverseui.com/components/proximity-navigation
+https://kobra.systems/
+https://morph-ui.anmol16.workers.dev/
+https://www.aicss.dev/
+https://componentry.dev/docs/components/annotated-text
+https://www.fluidfunctionalism.com/docs/select
+
+UI Charts
+
+https://www.movements.dev/chart
+
 UI Dark
 
+https://shoogle.dev/
 https://offloop.org/
 https://kobbe.io/
 
@@ -130,12 +178,67 @@ Words
 
 https://skalata.vc
 
-MCP
+Avatar Animation
 
-https://docs.autosend.com/ai/mcp-server#connecting-to-autosend-mcp
+https://tryarchitect.com/
+
+Swite
+
+https://fountible.com/
+https://sillon.mattrothenberg.com/
+
+Dagno
+
+https://clivio.com.br/
+https://prontu.co/
+https://organui.com/
+https://www.doutorfacil.app/
+https://x.com/bagus_fikri/status/2113963793319604519
+https://tivita.com/
 
 Hero / Header | Hero
 
+https://www.mollie.com/
+https://hero.space/
+https://complete.dev/
+https://www.veeza.ai/en
+https://www.sakaniui.com/
+https://experiments.thisiswhitespace.com/lathe-blueprint
+https://bendingspoons.com/
+https://zellify.app/
+https://mindcloud.co/
+https://userpage.app/
+https://visora.10amspace.com/
+https://handhold.io/
+https://asendia.ai/
+https://ola.tivita.com/
+https://enxovaly.com/en#como-funciona
+https://landingflow-studio.webflow.io/
+https://www.hedwig-ai.com/
+https://userjot.com/
+https://proofpings.com/
+https://intentapp.dev/
+https://tryarchitect.com/
+https://www.tembo.io/
+https://rekann.app/
+https://www.hintflow.io/
+https://dash.halaska.com/
+https://lakr.app/
+https://bird.com/
+https://buildermethods.com/
+https://tryfractal.co/
+https://hoplite.sh/
+https://twin.so/
+https://www.getuni.co/
+https://vessa.design/
+https://www.buildbetter.ai/
+https://withsavy.com/
+https://buzzkit.dev/
+https://explee.com
+https://kobbe.io/
+https://handhold.io/
+https://youform.com/
+https://www.mintlify.com/
 https://archil.com/
 https://www.sodax.com/
 https://xpander.ai/
@@ -442,6 +545,7 @@ https://wiz.io/
 
 Toast / Error
 
+https://ding.yusufcengiz.dev/
 https://app.crisp.chat/initiate/login | fill wrong the form and submit
 
 Mobile Menu
@@ -458,14 +562,18 @@ https://tailwindcollections-furniture-store.netlify.app
 Manifesto
 
 https://ravenna.ai
-https://proofs.io/manifesto
 
 Steps
 
 https://maxschmitt.me
 
+Storybook
+
+
+
 About
 
+https://interfere.com/about
 https://stateset.com/about
 https://midday.ai/story
 https://oku-ui.com/overview/about
@@ -504,10 +612,15 @@ https://x.com/rahulluthra22/status/2050523234291073289
 
 Swite / Support
 
+https://hellosol.app/
+https://rundoo.ai/
 https://www.spurnow.com/en
+https://zoho-redesign.framer.website/?via=W0d7QEm
 
 Changelog
 
+https://fountible.com/changelog/
+https://hoplite.sh/changelog
 https://fp.dev/changelog
 https://log.sobanotes.app/
 https://linear.app/changelog/timeline
@@ -532,6 +645,7 @@ https://prismic.io/404
 https://api.themembers.dev.br/404
 https://oneuptime.com/404
 https://app.plane.so/404
+https://www.cloudflare.com/products/workers/1/
 https://console.baselime.io/404
 https://supabase.com/404
 https://productlane.com/404
@@ -586,21 +700,55 @@ Course
 
 https://github.com/Black4315/course | https://course-teal-ten.vercel.app
 
+3D Viewer
+
+https://confetti.build/explore?templates=community
+
 Meta Connect
 
 https://app.live.zoko.io/meta-connect
 
+Video Effect / Video Marketing
+
+https://x.com/iliasconfidency/status/2113510733979738173
+https://x.com/AdityaSur11/status/2114560146835755148/video/2
+https://x.com/ChatSEO_app/status/2113547975385362523
+https://x.com/iliasconfidency/status/2113631529192874100
+
+Matchlayer
+
+https://inflight.co/
+https://www.ui-design.studio/post/2108174960976122228
+https://motionvideo.xyz/en
+https://vibrant.design/
+https://landdding.com/
+https://doop.design/community
+https://before.click/
+https://mesurer.dev/
+https://studio.morphic.com/editor/demo/canvas
+
 CSS Transitions
 
+https://bencho.dev/
+https://www.beautifului.dev/harness | https://github.com/slev12397/beautiful-ui
 https://amicro.vercel.app/
 https://transitions.dev/
+https://bencho.dev/#
+https://useplanes.com/components
+https://lab.xevrion.dev/lab/expanding-search
+https://transitions.dev/detail.html?t=card-resize
+
+Arrumo
+
+https://www.nollahealth.com/
 
 Audio Effects
 
 https://velvet-ui-eight.vercel.app/
 
-AI Chat
+AI Chat / AI Assistant
 
+https://operate.so/
 https://beautiful-ui-five.vercel.app/
 https://capacity.so/
 https://www.nollahealth.com/
@@ -650,15 +798,27 @@ https://github.com/milhamm/aang.dev
 
 Help Center
 
+https://ferndesk.com/app/reporting/help-center | https://ferndesk.com/
 https://rifei.com.br/ajuda
 https://usehall.com/help
 https://dub.co/help
 https://vercel.com/help
 https://chatwoot.com/help-center
 https://paraform.com/help
+https://slite.com/help
+
+Offpub
+
+https://pamba.app/
 
 Docs / Knowledge Base
 
+https://kestrel-docs-mu.vercel.app/?utm_source=kestrel-app
+https://docs.usequality.app/docs
+https://userjot.com/docs
+https://uiarc.dev/docs/ai
+https://docs.reflag.com/
+https://yonical.slite.com/app/docs/aiDxBXCA7Jwm18
 https://hiraki.ozzyx.xyz/ | https://github.com/ddoemonn/hiraki
 https://files-sdk.dev/
 https://docs.tembo.io/
@@ -713,6 +873,10 @@ Stake
 
 https://winr.games/stake
 
+Header Search
+
+https://teamex.io/
+
 Search Page
 
 https://opensource-together.com/
@@ -748,6 +912,9 @@ https://nike-app-git-main-armans-projects-c9523aa4.vercel.app
 Table
 
 https://affiliates.lemonsqueezy.com/programs
+https://crm-ui-table.vercel.app/#
+https://outlier-invest-saas.vercel.app/
+https://crm-customer-ui.vercel.app/#
 
 Collapsible Tables
 
@@ -839,6 +1006,15 @@ https://linear.app/now/linear-incident-on-mar-24th-2026
 
 Login / Sign In / Sign up
 
+https://trynova.io/login/
+https://demo.accordee.app/login
+https://app.hodle.com.br/register
+https://app.hintflow.io/sign-in
+https://app.infisical.com/login
+https://craftwork.design/login
+https://builder.twin.so/usage
+https://clayem.com/login
+https://shoogle.dev/login
 https://scoutcrm.io/login/
 https://interfere.com/auth
 https://offloop.org/login
@@ -1005,6 +1181,7 @@ https://opencollective.com/signin/sent?email=me%40brunowego.com
 
 API Key / API Token
 
+https://linear.app/swite/settings/api
 https://app.cal.com/settings/developer/api-keys
 https://app.getconnect.tech/setting/apikey
 https://vercel.com/account/settings/tokens
@@ -1022,8 +1199,13 @@ https://dealhunt.cc
 
 Webhook
 
-https://resend.com/webhooks
-https://app.documenso.com/settings/webhooks
+https://reloop.sh/dashboard/webhooks/create
+https://resend.com/webhooks | https://reloop.sh/docs/webhooks
+https://app.documenso.com/t/brunowego/settings/webhooks
+
+Wallet
+
+https://app.steel.dev/settings/billing/plans
 
 Waitlist
 
@@ -1051,12 +1233,18 @@ Assistant / GPT
 https://chat-preview.lobehub.com/chat?agent=
 https://calendar.amie.so
 
+ChatGPT Dots
+
+https://feralui.dev/momo | https://github.com/mortspace/momo
+
 Reminders
 
 https://app.shelf.nu/reminders
 
 Calendar View
 
+https://calendartesting.vercel.app/
+https://time.fyi/
 https://reui.io/components/event-calendar
 https://x.com/bagus_fikri/status/2055619443829743840
 https://nthumods.com/en/timetable | https://github.com/nthumodifications/courseweb
@@ -1103,14 +1291,53 @@ https://www.thesys.dev/
 
 Loading
 
+https://loading.dev/
+https://www.loading-ui.com/
+https://loading.daniasyrofi.com/
 https://flicker.laurie.fyi/gallery
 https://gradient-spin.vercel.app/
-https://orbs.jakubantalik.com/
+https://libraries.dev/orbs
 https://github.com/gunnargray-dev/unicode-animations
 https://obaidnadeem.github.io/dab/
 
+Mobile App Marketplace
+
+https://apps.apple.com/us/app/panols/id1061408978
+
+Autlin
+
+https://conare.ai/
+https://potpie.ai/
+
+Arcnote
+
+https://x.com/robinebers/status/2117871560560402602
+https://madebysourasith-sudo.github.io/roomtone/
+https://www.affectui.com/?v=2
+https://wy51ai.github.io/floorplan-3d/ | https://github.com/wy51ai/floorplan-3d/blob/master/index.html
+https://www.lunagraph.com/?ref=producthunt
+https://ploterr.com/
+https://floorcraft.chirostudio.xyz/
+https://x.com/Bootsblac/status/2118400160308855016
+https://os.actvox.com/ws/ms7c2wdcqjkj2z86earnyy2amh8hrbmz/settings
+https://enclose.dev/
+https://resurf.so/
+https://atlasformac.com/
+https://kylon.io/
+https://autorouter.com/
+https://noto-ai.10amspace.com/
+https://intentapp.dev/
+https://my.larooma.app/ | https://www.larooma.app/
+https://windowfolio.com/
+
 Mosaic / Section
 
+https://umia.finance/
+https://illos.dev/
+https://kernal.framer.website/?via=W0d7QEm
+https://www.korra.com/
+https://fountible.com/
+https://visorfinance.app/
 https://audyr.com/
 https://www.lunagraph.com/?ref=producthunt
 https://www.sully.ai/
@@ -1148,7 +1375,6 @@ https://kan.bn/#features
 https://trycomp.ai
 https://reweb.so
 https://snov.io
-https://proofs.io
 https://foundersfactory.com
 https://volta.net
 https://finta.com
@@ -1237,6 +1463,10 @@ https://mento.co
 https://li.fi
 https://frabit-io.vercel.app/demo
 
+Request Access
+
+https://app.korra.com/request-access
+
 Map / Location
 
 https://trulia.com/GA/Atlanta
@@ -1253,6 +1483,7 @@ https://crashed.nu/builder
 
 Plan Usage
 
+https://reloop.sh/dashboard/settings
 https://anara.com/brunowego
 
 Trial End
@@ -1293,8 +1524,27 @@ Crypto
 
 https://coinhall.org
 
+Video Recording Examples
+
+https://x.com/intellijidea/status/2116139936675959096
+https://x.com/jamipuchi/status/2105361073339543924
+
 Landing Page
 
+https://www.useclimb.is/
+https://www.usemono.dev/
+https://toplify.app/
+https://postte.com/
+https://www.shiori.sh/
+https://www.minttr.com/
+https://bakd.work/
+https://until.dev/
+https://linkletter.press/
+https://deslopify.studio/
+https://buymicroapps.com/
+https://vellum.jimmyverburgt.com/
+https://planar-saas-software-template.framer.website/
+https://spacefast.com/
 https://www.runeverything.ai/
 https://www.griffin.com/
 https://www.popcorn.space/
@@ -1376,7 +1626,6 @@ https://snov.io/api
 Product Landing Page
 
 https://con.nowledge.co/
-https://peterdraw.studio/product/paylink-digital-banking-website-ui-figma-template
 https://primer.tailwindui.com
 
 Product Page
@@ -1386,6 +1635,8 @@ https://flows.sh/product-tours
 
 Integrations
 
+https://usequality.app/yonical/settings/connections
+https://agent-builder-ui-one.vercel.app/#/integrations
 https://x.com/z3dsy/status/1991457200527798658/photo/1
 https://app.maybe.co/connections
 https://port.io/integrations
@@ -1403,6 +1654,46 @@ https://doppler.com/integrations
 https://githr.vercel.app/app/integrations
 https://app.frigade.com/integrations
 https://app.netbird.io/integrations
+
+Assistant Composer
+
+https://ai-template.alignui.com/
+https://www.lovart.ai/canvas?source_id=902328&utm_medium=button2&projectId=3f7c48c4369c4718aef1d51de78b93b9
+https://www.lovart.ai/canvas?projectId=2ri532izh5a8
+https://www.lovart.ai/canvas?projectId=2ri532izh5a8
+https://agency.trading/agents
+
+Skills
+
+https://app.tembo.io/bruno-s-workspace-1759164666/settings/skills
+https://agent-builder-ui-one.vercel.app/#/skills
+
+Models / LLM
+
+https://app.tembo.io/bruno-s-workspace-1759164666/settings/models
+https://productlane.com/settings/ai
+
+Memony
+
+https://github.com/Oleafly/Oleafly
+https://littlebird.ai/
+https://gofound.app/demo#/
+
+MCP
+
+https://usequality.app/yonical/settings/mcp
+https://mobbin.com/mcp
+https://docs.autosend.com/ai/mcp-server#connecting-to-autosend-mcp
+https://productlane.com/settings/mcp
+https://app.cal.com/settings/developer/mcp
+
+OAuth
+
+https://app.cal.com/settings/developer/oauth
+
+Instructions / Prompts
+
+https://app.tembo.io/bruno-s-workspace-1759164666/settings/instructions
 
 Booking
 
@@ -1431,6 +1722,7 @@ Marketplace
 https://tise.com/
 https://appstacks.club
 https://app.contentful.com/spaces/wks05v1n2qoi/apps/list
+https://www.ui-design.studio/post/2103472336615711148
 
 Register
 
@@ -1443,6 +1735,7 @@ https://simplegoods.co/guides
 Invoice
 
 https://x.com/maybepratikk/status/2048676720165974338
+https://app.hintflow.io/invoices
 
 Invest
 
@@ -1469,8 +1762,14 @@ https://preview.tailus.io/oxymor-yv
 
 Cookie Consent
 
+https://hoplite.sh/
+
 Pricing
 
+https://yee.site/
+https://kobra.systems/pricing
+https://dashboard.visorfinance.app/billing
+https://hoplite.sh/pricing
 https://weav.com/pricing
 https://mixpanel.com/pricing/
 https://startupr.xyz/pricing
@@ -1549,11 +1848,16 @@ https://helicone.ai/pricing
 https://openstatus.dev/pricing
 https://upstash-web-upstash.vercel.app/#section-pricing
 
+Mailbox
+
+https://github.com/ephraimduncan/weekday | https://weekday.so/
+
 Maintenance
 
 
 Contact
 
+https://contact.parallel.ai/
 https://www.evaly.io/contact
 https://helptix.adslink.id/request-demo
 https://outloud.co/start-a-project
@@ -1583,8 +1887,26 @@ https://mailcoach.app/self-hosted
 
 Plans
 
+https://usequality.app/yonical/settings/plans
+https://app.steel.dev/settings/billing/plans
 https://productlane.com/settings/plans
 https://console.baselime.io/brunowego/plans
+
+Erdraft
+
+https://flows.sh/product-tours
+https://rubberboots.app/
+
+Swite
+
+https://www.gleap.ai/
+https://jam.dev/
+https://langdock.com/
+https://usequality.app/homepage
+https://www.vantaui.com/
+https://www.relume.ai/?r=0
+https://weav.com/
+https://www.enginy.ai/
 
 Blocked
 
@@ -1634,6 +1956,11 @@ https://callstack.com/events/tips-tricks-from-the-ultimate-guide-to-react-native
 
 Personal / Profile
 
+https://designseason.co/
+https://saura3h.xyz/
+https://xevrion.dev/
+https://justinlevine.me/
+https://deeplakhani.co/
 https://paco.me/
 https://www.hamzaalabou.com/
 https://kickoof.com/
@@ -1671,6 +1998,8 @@ https://ali-hussein.com
 
 Public Profile
 
+https://ko-fi.com/brunowego
+https://www.producthunt.com/@fmerian
 https://startups.gallery/companies/shortwave
 https://resumx.framer.website/
 https://ultra.framer.website/
@@ -1724,13 +2053,48 @@ https://linear.app/henkiz/settings/account/profile
 
 https://account.hotmart.com
 
+Paluga
+
+https://www.hintflow.io/
+https://noeldelgado.github.io/shadowlord/#003b95
+https://noeldelgado.github.io/shadowlord/#ffc20f
+
+Matchlayer
+
+https://nativecook.dev/
+https://muse-6m9.pages.dev/
+https://uiinspoo.com/
+
+Sound
+
+https://bencho.dev/sounds
+
+Background Effect
+
+https://meltkit.com/
+https://arego.design/
+
 Background Generation
 
 https://bg-layers.vercel.app/
 https://colorsandfonts.com/mesh-generator/
 
+Micro-dashboard / Simple App
+
+https://www.helumi.app/app
+
 Dashboard
 
+https://sales-crm-template.modulify.website/
+https://opsloop-dashboard.vercel.app/?em=2026-08
+https://app.hintflow.io/projects
+https://gr8r-studio.vercel.app/ 🌟
+https://near.com/crypto 🌟
+https://docs.lightspark.com/cards/demo
+https://console.polylane.com/brunos-workspace/topology
+https://app.gitbook.com/o/1nfW3IhzqgAOF8lLcvMj/s/sszqqAb322EWsPW6kjUh/
+https://builder.twin.so/usage
+https://crm-ui-table.vercel.app/#
 https://app.usewrangle.com/dashboard
 https://login.tailscale.com/admin/machines
 https://x.com/keviduk/status/2052373899979964595
@@ -1847,6 +2211,12 @@ https://resend.com/overview
 https://app.planetscale.com/cloken
 https://himalayas.app/settings
 
+Home / Overview
+
+https://www.venturekit.ai/app
+https://githr.vercel.app/app/dashboard
+https://app.seline.com/projects/henkiz.com
+
 Appointment
 
 https://hospital-1.vercel.app/book-appointment
@@ -1951,6 +2321,9 @@ https://nstfkc.com/connect-modal
 
 Settings
 
+https://tracwell.app/app/settings/account
+https://app.coderabbit.ai/profile
+https://post-pilot.app/home
 https://app.tembo.io/bruno-s-workspace-1759164666/settings/preferences
 https://chats.cloodot.com/settings/appearance
 https://www.evaly.io/app/settings?tab=general
@@ -2002,6 +2375,11 @@ https://linear.app/henkiz/settings/account/notifications
 https://app.plane.so/profile/preferences/email
 https://publish.buffer.com/settings/notifications
 
+Email Editor
+
+https://app.unosend.co/templates/email-builder?id=dd50d8bd-a9f1-4b40-979c-70e7a232e474
+https://reloop.sh/dashboard/campaigns/cmp_d6bp2zx83nqm1p1i3ltt3mnn/edit
+
 Email Preview
 
 https://preview.mailerlite.io/emails/webview/234899/170588461249595264
@@ -2020,7 +2398,6 @@ Roadmap
 https://keystonejs.com/roadmap
 
 https://sparkz-iota.vercel.app/roadmap
-https://campsite.chat/roadmap
 https://islamiccoin.net/roadmap
 https://coinzbot.xyz/roadmap
 https://yapbay.com/roadmap
@@ -2034,6 +2411,10 @@ https://feltlabs.ai
 https://qwiz.party
 https://helicone.ai/roadmap
 https://qwiz.party (mantine)
+
+Tour
+
+https://kestrel-app-eta.vercel.app/runs?tour
 
 Tool Page
 
@@ -2055,11 +2436,17 @@ Newsletter / Email Preferences
 https://autosend.com/sm/unsubscribe-preferences?data=ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SndjbTlxWldOMFNXUWlPaUkyT0dSbE5qazNOVEZsWXpFNU0yRTFPVFEwWkRnNU56a2lMQ0psYldGcGJFRmpkR2wyYVhSNVNXUWlPaUkyT1dJd1ptVmlNakJtT1RFd04yWTBPRFEwTjJZek5EUWlMQ0puY205MWNFbGtJam9pVWtaSVVsSWlMQ0owZVhCbElqb2lkVzV6ZFdKelkzSnBZbVVpTENKcFlYUWlPakUzTnpNeU1EY3lOVFVzSW1WNGNDSTZNVGM0TURrNE16STFOU3dpWVhWa0lqb2lkVzV6ZFdKelkzSnBZbVVpTENKcGMzTWlPaUpoZFhSdmMyVnVaQ0o5LkZCV0RhN3l5ZHpJZ2RkeUctNGdZNXdESjVDUkJwQkdXVzM2RXAwbWszTDA&uId=69b0feb20f9107f48447f344
 https://links.openphone.com/manage_subscription_preferences/dgT-4QQAAM3phwLL6YcCAZCZ09pC23G4vNPVyJYEeQ==/en
 
+Inbox
+
+
+
 Store
 
 https://loja.infinitepay.io/henkiz
 
 Form / Input
+
+
 
 Policies
 
@@ -2087,8 +2474,15 @@ Teams
 
 https://app.midday.ai/account/teams
 
+Quick Add
+
+https://app.userjot.com/cmf32vcjz000co10i4mjtqhr2/d/requests?status=%5B%22PROGRESS%22%5D
+
 Kanban
 
+https://app.userjot.com/cmf32vcjz000co10i4mjtqhr2/d/services/roadmap
+https://main--6a5a658b3681fcc010430db5.chromatic.com/?path=/docs/composite-board-column--docs
+https://shadcnstudio.com/blocks/dashboard-and-application/kanban-app
 https://dribbble.com/shots/23928096-Security-vulnerability-kanban
 https://dribbble.com/shots/21227113-Managemate-Task-Management-Dashboard
 https://dribbble.com/shots/23761306-Task-Details-Task-Management-Dashboard
@@ -2114,8 +2508,13 @@ Providers / API Keys
 
 https://itz.am/onboard | https://github.com/itzam-ai/itzam
 
+AI Usage
+
+https://yonical.slite.com/settings/organization/ai-usage
+
 Usage
 
+https://app.steel.dev/settings/billing/usage
 https://app.agentset.ai/henkiz/settings
 https://lumeai.xyz/usage | https://github.com/C-W-D-Harshit/lume-ai
 https://itz.am/dashboard/usage | https://github.com/itzam-ai/itzam
@@ -2133,6 +2532,8 @@ https://llmgateway.io/dashboard/oPzB1lYySL9HqlK8AfBD/fcxG8O4NIcNiyixgTkCk/usage?
 
 Onboarding
 
+https://reloop.sh/dashboard/onboarding?name=Yonical
+https://app.sharewillow.com/activation
 https://runey.app/dashboard
 https://app.steel.dev/quickstart
 https://app.orchid.ai/welcome/11
@@ -2248,6 +2649,7 @@ https://dribbble.com/shots/25576065-Invite-Team
 
 Developers
 
+https://tracwell.app/app/settings/developer
 https://crunchydata.com/developers
 
 Progress
@@ -2296,8 +2698,18 @@ https://atlassian.design/components/tokens/all-tokens
 https://wise.design/foundations/colour
 https://www.intercom.com/
 
+Share
+
+https://app.userjot.com/cmf32vcjz000co10i4mjtqhr2/d/services/share
+
+Widget embed
+
+https://app.userjot.com/cmf32vcjz000co10i4mjtqhr2/d/services/share
+
 Chatbot AI / Workflow Builder
 
+https://github.com/kargulstudio/workflow-editor | https://workflow-editor-kargul.vercel.app/
+https://agent-builder-ui-one.vercel.app/#/agents/product-discovery
 https://www.foglamp.dev/scan
 https://plugnode.ai/dashboard/flows/cmp9u4o8y009n01qrga2q9zzh
 https://resend.com/automations/019e21c0-b8c8-711f-aa59-d78eeae2c44a/editor
@@ -2348,6 +2760,9 @@ https://crunchydata.com/developers/get-started/postgres-operator
 
 Portfolio
 
+https://lamaan.co/
+https://emmanuelngoka.work/
+https://www.natechan.com/#intro
 https://desengs.com/
 https://pasquale-favella.github.io/ | https://github.com/Pasquale-Favella/pasquale-favella.github.io
 https://im-agency.vercel.app/portfolio
@@ -2385,6 +2800,7 @@ https://zapal.tech
 
 Download Page
 
+https://fountible.com/download/
 https://volta.net/download
 https://rotato.app/download
 https://kyte.com/download-app
@@ -2394,11 +2810,16 @@ Shopping Cart
 
 SDK
 
+https://github.com/reloop-labs/reloop-node
 https://invertase.io/sdk
 
 Stripe
 
 https://alpha.mapform.co/app/yonical/settings
+
+Callout Mobile App
+
+https://www.zocdoc.com/
 
 Call
 
@@ -2412,6 +2833,15 @@ https://ui.modernbanc.com/henkiz/accounts?tab=all_accounts
 Coming Soon
 
 https://www.spotlightnow.in/
+
+Chat AI
+
+https://github.com/whirlchat/whirl | https://www.whirl.chat/
+https://crm-ai-agent-tau.vercel.app/
+
+Agent Sources
+
+https://yonical.slite.com/settings/organization/agent-sources
 
 Chat Reasoning
 
@@ -2427,10 +2857,44 @@ https://runware.ai
 
 Paywall
 
+https://flask.do/dash
 https://app.arcads.ai/onboarding/paywall
 
 Footer
 
+https://every.ai/
+https://meyalab.com/
+https://www.incredible.one/
+https://www.salteclinic.com/blog
+https://kargul.studio/
+https://uiarc.dev/
+https://kobbe.io/
+https://handhold.io/
+https://www.mintlify.com/
+https://archil.com/
+https://www.sodax.com/
+https://tasken-wcb.framer.website/
+https://fountible.com/
+https://sunbeam.framer.media/
+https://getnick.ai/
+https://www.joinvalley.co/
+https://snapzy.app/
+https://runey.app/
+https://weav.com/
+https://www.salteclinic.com/
+https://www.datashake.com/
+https://willowvoice.com/
+https://2chat.co/
+https://wrangle.ai/
+https://launcherr.framer.website/
+https://www.tiki.com.br/
+https://eloquentai.co/
+https://kanmon.com/
+https://verdely.framer.ai/
+https://vessa.design/
+https://hoplite.sh/
+https://bird.com/
+https://quantpilot.com/
 https://www.adschoice.co.uk/
 https://fynt.in/ | https://github.com/abhinavkale-dev/fynt
 https://weav.com
@@ -2464,7 +2928,6 @@ https://plain.com
 https://featureflags.io
 https://invertase.io/sdk
 https://pietrastudio.com
-https://tryarcane.com
 https://zave.it
 https://truewind.ai
 https://rallyon.com
@@ -2473,7 +2936,6 @@ https://nucleoapp.com/downloads
 https://send.it
 https://langdock.com
 https://logintrade.ai
-https://spaziobianco.lexingtonthemes.com
 https://mollie.com
 https://botpress.com
 https://oneleet.com
@@ -2482,19 +2944,16 @@ https://swan.io
 https://zapal.tech
 https://conceptzilla.com
 https://verdely.framer.ai
-
 https://exa.ai/
 https://paradigmai.com/
 https://apptronik.com/
 https://budecosystem.com/
 https://azion.com/pt-br
-https://proofs.io
 https://zellify.app
 https://volta.net
 https://synthfinance.com
 https://mailcoach.app
 https://heyform.net
-https://campsite.chat
 https://wickedtemplates.com
 https://significa.co
 https://wearebren.com
@@ -2542,6 +3001,10 @@ Hotel
 
 https://members.hotelengine.com
 
+Spec1st / Hubspec / Planpick
+
+https://designerhq.app/
+
 Coming Son
 
 https://coderthemes.com/opixo/coming-soon-4.html
@@ -2584,6 +3047,8 @@ https://branco-react.hibootstrap.com/life-coach
 
 Table
 
+https://kestrel-app-eta.vercel.app/runs
+https://fynlo-beige.vercel.app/
 https://planner.tremor.so/quotes/overview
 
 Trust Center
@@ -2623,6 +3088,10 @@ Passkey
 
 https://app.stack-auth.com/handler/account-settings#auth
 
+Template Editor
+
+https://www.midcode.app/
+
 WYSIWYG Editor
 
 https://github.com/bangle-io/bangle-io
@@ -2642,6 +3111,7 @@ https://app.eververse.ai/settings/statuses
 
 Custom Field
 
+https://app.marblecms.com/yonical/settings/fields
 https://app.shelf.nu/settings/custom-fields/new
 
 Application Log / System Log / Activity

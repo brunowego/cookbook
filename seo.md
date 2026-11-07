@@ -13,6 +13,7 @@ https://developers.google.com/search/docs/advanced/appearance/title-link
 - [SEO Site Checkup](https://seositecheckup.com)
 
 <!--
+https://treg.to/aeo
 https://seoptimer.com
 https://seobility.net/en/seocheck
 https://suite.seotesteronline.com/seo-checker

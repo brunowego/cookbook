@@ -5,14 +5,37 @@
 **Refer:** `./src/lib/fonts.ts`
 
 ```ts
-import { Inter as FontSans } from 'next/font/google'
+import {
+  Plus_Jakarta_Sans as FontSansHeading,
+  Poppins as FontSans,
+  Delius as FontSerif,
+} from 'next/font/google'
+
+export const fontSansHeading = FontSansHeading({
+  subsets: ['latin'],
+  weight: ['700', '800'],
+  variable: '--font-sans-heading',
+})
 
 export const fontSans = FontSans({
   subsets: ['latin'],
   weight: ['400', '500', '600', '700'],
   variable: '--font-sans',
 })
+
+export const fontSerif = FontSerif({
+  subsets: ['latin'],
+  weight: ['400'],
+  variable: '--font-serif',
+})
 ```
+
+<!--
+@theme {
+  --font-sans-heading: 'Plus Jakarta Sans', 'Plus Jakarta Sans Fallback';
+  --font-serif: 'Delius', 'Delius Fallback';
+}
+-->
 
 <!--
 {

@@ -159,10 +159,10 @@ jq '."search.exclude"."**/.next" |= true' "$PWD"/.vscode/settings.json | sponge 
 **Dependencies:** [trash](/trash.md)
 
 ```sh
-#
+# Find any `.next` directory and show the size
 find . -name '.next' -type d -prune | xargs du -chs
 
-#
+# Find any `.next` directory and remove it
 find . -name '.next' -type d -prune -exec rm -fR '{}' +
 ```
 

@@ -95,7 +95,6 @@ https://pagedone.io/blocks
 
 - [Super Color Palette](https://supercolorpalette.com)
 - [TailwindMate](https://tailwindmate.jaleelbennett.com) 🌟
-- [Tailwind Gradient Generator](https://tailwind-gradient-generator.vercel.app)
 - Converter
   - [Loopple / CSS to Tailwind Converter](https://loopple.com/tools/css-to-tailwind-converter)
   - [Transform / CSS to TailwindCSS](https://transform.tools/css-to-tailwind)
@@ -105,6 +104,8 @@ https://pagedone.io/blocks
 - [tailwindpdf](/tailwindpdf.md)
 
 <!--
+https://www.radix-ui.com/colors/custom
+
 https://tailscan.com/gradients
 
 https://kigen.design/color

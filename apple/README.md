@@ -9,3 +9,8 @@
 ## References
 
 - [System Status](https://apple.com/support/systemstatus)
+
+<!--
+https://developer.apple.com/programs/enroll
+https://developer.apple.com/enroll/duns-lookup
+-->

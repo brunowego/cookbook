@@ -11,13 +11,21 @@ https://github.com/coderabbitai/skills
   - [Code review commands](https://docs.coderabbit.ai/reference/review-commands)
 
 <!--
-@coderabbitai review
-@coderabbitai resume
+@coderabbitai help
+
+@coderabbitai rate limit
+
 @coderabbitai full review
-@coderabbitai resolve
-@coderabbitai approve
+@coderabbitai review
+
 @coderabbitai status
 @coderabbitai stats
+
+@coderabbitai pause
+@coderabbitai resume
+
+@coderabbitai resolve
+@coderabbitai approve
 
 gh pr edit <pr-id> --add-reviewer coderabbitai
 -->

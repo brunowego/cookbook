@@ -17,7 +17,7 @@ Podfile
 
 ## Dependencies
 
-- [rbenv](/rbenv.md) <!-- Ruby v3.2.2 -->
+- [rbenv](/rbenv.md) <!-- Ruby >= v3.2.2 -->
 
 ### Installation
 

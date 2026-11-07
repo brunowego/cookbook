@@ -1,31 +1,12 @@
 # Conductor
 
 <!--
-https://helmor.ai
-https://omnara.com
-https://paseo.sh
-https://super.engineering
-https://agents-os.dev
-https://superset.sh
-https://github.com/stravu/crystal
-https://getpolyscope.com
-https://cmux.dev
-https://github.com/stravu/crystal
-https://agents.craft.do
-https://vvterm.com
-https://superhq.ai
-https://acepe.dev
-https://onorca.dev
-https://dpcode.cc
--->
-
-<!--
 git fetch origin
 git branch --set-upstream-to=origin/<branch>
 git pull --rebase
 -->
 
-**Keywords:** Parallel Agents Orchestration
+**Keywords:** AI Workspace, Parallel Agents Orchestration, Local-first Workbench
 
 ## Links
 
